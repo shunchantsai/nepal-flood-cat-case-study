@@ -18,10 +18,10 @@ reconciled across agencies.
 | ~T+30 min | Trishuli River, Malekhu gauge: water level rises ~7 m in a similar window | CONFIRMED | [ICIMOD press release](https://www.icimod.org/press-release/major-flash-flood-sweeps-through-nepals-rasuwa-district-raising-fears-of-further-downstream-flooding/) |
 | ~T+40 min | Flood/debris wave reaches the Rasuwagadhi border crossing and downstream corridor settlements | CONFIRMED | [USGS Landslide Response page](https://www.usgs.gov/programs/landslide-hazards/science/2026-nepal-debris-avalanche-and-flash-flood) |
 | T+40 min onward | Corridor infrastructure impact: border crossing, roads, bridges, settlements, hydropower facilities along the Bhote Koshi–Trishuli corridor | CONFIRMED (occurrence) / illustrative in this project for depth/extent (see Module 2) | [2026 Nepal–Tibet floods — Wikipedia](https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods) (aggregator; see article references for primary sources) |
-| ~11:37 NPT (approx.) | Second seismic signal, M4.2, also attributed to slope instability. **Note:** USGS's own event page states this occurred "about three hours after" the first signal — it does not publish an exact clock time, so 11:37 is a derived approximation, not an independently observed timestamp | CONFIRMED (occurrence) / approximate (exact time) | USGS event page, second signal (event ID us7000tc90, referenced in [Wikipedia, 2026 Nepal–Tibet floods](https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods)) |
-| 4 Sept 2026 | Two workers rescued from a hydropower tunnel (Upper Trishuli 3A) | CONFIRMED | [2026 Nepal–Tibet floods — Wikipedia](https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods) |
-| 5 Sept 2026 | A Chinese national rescued from a hydropower tunnel (Upper Trishuli-1) after being trapped for several days; separately, a woman rescued from a collapsed building in Betrawati | CONFIRMED | [2026 Nepal–Tibet floods — Wikipedia](https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods) |
-| ~5 Sept 2026 (snapshot date) | Casualty/rescue figures as most recently reported — see boxed callout in §2 | REPORTED, provisional | [Kathmandu Post, "Nepal flood death toll reaches 1,342," 5 Sept 2026](https://kathmandupost.com/national/2026/09/05/nepal-flood-death-toll-reaches-1-342) |
+| ~11:46 NPT | Second seismic signal, M4.2, also attributed to slope instability. USGS's event page for this signal (event ID us7000tc90) lists a precise origin time of 06:00:35 UTC, which converts to ~11:46 NPT (UTC+5:45) — this supersedes the earlier "about three hours after" approximation used in a prior draft of this table | CONFIRMED | [USGS event page, second signal (us7000tc90)](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc90/executive) |
+| 4 Sept 2026 | Two workers — Sanjay Sah/Shah (mechanical foreman) and Kabir Maharjan (mechanical supervisor) — rescued alive from the main tunnel at the Trishuli 3A hydropower construction site, nine days after the flood | CONFIRMED | [Al Jazeera, 4 Sept 2026](https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel) |
+| 5 Sept 2026 | A Chinese national (Lu Haitao) rescued from a hydropower tunnel after being trapped for 10 days, reported by CNN as the Upper Trishuli-1 project. **Note:** one other outlet's photo caption attributes this rescue to Trishuli-3A instead — treated here as a minor, unresolved sourcing conflict rather than settled fact | CONFIRMED (occurrence) / site attribution disputed across sources | [CNN, 5 Sept 2026](https://www.cnn.com/2026/09/05/world/live-news/nepal-china-flood) |
+| 5 Sept 2026 | Chandika Kumari Shrestha (64), a resident of Betrawati (Bidur Municipality-10, Nuwakot district), rescued alive from the upper floor of her collapsed four-storey home, 10 days after the flood | CONFIRMED | [Kathmandu Post, 5 Sept 2026](https://kathmandupost.com/national/2026/09/05/woman-rescued-alive-after-10-days-trapped-in-debris-buried-house) |
 
 **Reference point — comparable prior event:** the same general corridor experienced a comparable-scale
 flood 14 months earlier: the July 2025 Rasuwagadhi glacial lake outburst flood, sourced from the
@@ -37,20 +37,34 @@ Tibet side. This event's failure point is assessed as being on the Nepal side.
 > figures at time of writing. Do not treat these as final. Any use of these figures in the report
 > or slides should carry this same date stamp and link back to the source below.
 
-**Nepal side** (source: [Kathmandu Post, 5 Sept 2026](https://kathmandupost.com/national/2026/09/05/nepal-flood-death-toll-reaches-1-342)):
+**Nepal side** (source: [Kathmandu Post, "Nepal flood death toll reaches 1,342," published and
+updated 5 Sept 2026, 11:12 NPT](https://kathmandupost.com/national/2026/09/05/nepal-flood-death-toll-reaches-1-342)):
+
 | Metric | Value |
 |---|---|
-| Bodies recovered | 1,344 |
-| Still reported missing | ~5,000 |
-| Rescued | 13,098 |
-| Hydropower workers reported missing | ~900 |
-| ...of whom believed possibly trapped in tunnels | ~500 |
+| Deaths recorded (as of 8am, 5 Sept 2026) | 1,342 |
+| Still reported missing | 4,886 |
+| Bodies formally identified and buried | 1,030 |
 
-**Tibet side** (source: [Xinhua, 4 Sept 2026](https://www.news.cn/20260904/32ba08fbccf049e6bf162d182d55508d/c.html); separate national authorities, not yet reconciled with Nepal-side figures):
-| Metric | Value |
+> Note: the previous version of this table also carried figures for total rescued (13,098) and
+> hydropower workers reported missing (~900, of whom ~500 believed trapped in tunnels). Those
+> figures do **not** appear in this specific dated article and have been removed pending
+> re-sourcing from a specific, dated primary source — re-add only once verified against an
+> article with the same rigor applied here.
+
+**Tibet side** (source: [Xinhua, "西藏吉隆泥石流灾害已致31人遇难531人失联" ("The Gyirong,
+Tibet mudslide disaster has left 31 dead and 531 missing"), published 4 Sept 2026 — figures
+stated in the article as of 2 Sept 2026](https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods);
+separate national authorities, not yet reconciled with Nepal-side figures):
+
+| Metric | Value (as of 2 Sept 2026) |
 |---|---|
 | Dead | 31 |
 | Missing | 531 |
+
+> Note: later aggregate reporting cites higher Tibet-side totals (43 dead, 519 missing) as of
+> early-to-mid September — not yet traced to a single dated primary Xinhua article. Update if
+> a specific dated source for the later figure is found.
 
 ---
 
@@ -72,6 +86,19 @@ failure mass was (ice, rock, or a mixture).
   breach typically leaves a distinguishable deposition signature from a non-dammed debris flood
 - Formal investigation reports from USGS, ICIMOD, and Nepal's Centre of Hydrology and Water
   Resources Research, which are expected to address this directly
+
+**Update, as of 12 September 2026:** several more recent secondary accounts describe the
+temporary barrier-lake formation and breach in more definite terms than ICIMOD's original
+framing did — e.g. [Britannica's summary of the 2026 Nepal floods](https://www.britannica.com/event/Nepal-floods-of-2026),
+which describes a smaller secondary release from a temporary barrier lake as part of the
+established sequence, and a [Down To Earth explainer](https://www.downtoearth.org.in/natural-disasters/when-rock-flows-like-a-river),
+which gives a specific breach timeframe (the debris mass reportedly dammed the Lendey Khola
+before bursting, with the surge then travelling 22 km in roughly the first seven minutes).
+These are more assertive than ICIMOD's original press release, which described the dam
+mechanism as still under assessment. This project treats that shift as a signal to check for
+a formal investigation report — not yet as grounds to reclassify the HYPOTHESIS status below,
+since neither secondary account cites a primary geophysical or field-survey source resolving
+the question on this project's terms.
 
 Until one of these lines of evidence is conclusive, this project treats the dam-breach hypothesis
 as a candidate amplifying mechanism, not a fact — and any statement in the report or slides that
