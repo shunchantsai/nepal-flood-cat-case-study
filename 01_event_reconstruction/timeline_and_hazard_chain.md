@@ -1,6 +1,6 @@
 # Event Reconstruction & Hazard Chain
 
-*Full bibliography: [`../data/sources.md`](../data/sources.md). Uncertainty framework and
+*Full bibliography: [`../data/sources.md`](https://github.com/shunchantsai/nepal-flood-cat-case-study/blob/master/data/sources.md). Uncertainty framework and
 status-tag definitions: [`../METHODOLOGY.md`](../METHODOLOGY.md).*
 
 ## 1. Chronological timeline
