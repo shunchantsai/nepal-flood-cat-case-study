@@ -1,13 +1,16 @@
 # Event Reconstruction & Hazard Chain
 
-*Full bibliography: [`../data/sources.md`](../data/sources.md).*
+*Full bibliography: [`../data/sources.md`](../data/sources.md). Uncertainty framework and
+status-tag definitions: [`../METHODOLOGY.md`](../METHODOLOGY.md).*
 
 ## 1. Chronological timeline
 
 Status legend: **CONFIRMED** = corroborated by an official/technical source (USGS, ICIMOD, Nepal
-NDRRMA/Police). **HYPOTHESIS** = plausible mechanism still under investigation, not yet confirmed.
-**REPORTED** = figures reported by official sources but explicitly provisional/still being
-reconciled across agencies.
+NDRRMA/Police) or by multiple independent reputable sources converging on the same account.
+**HYPOTHESIS** = plausible mechanism still under investigation, not yet confirmed. **REPORTED** =
+figures reported by official sources but explicitly provisional/still being reconciled across
+agencies. See [`../METHODOLOGY.md`](../METHODOLOGY.md) for the full uncertainty framework,
+including the epistemic/aleatory distinction used in §3 below.
 
 | Time (local, 26 Aug 2026 unless noted) | Event | Status | Source |
 |---|---|---|---|
@@ -70,7 +73,9 @@ separate national authorities, not yet reconciled with Nepal-side figures):
 
 ## 3. Open question: was there a temporary landslide/ice dam?
 
-**Status: HYPOTHESIS — not yet confirmed.**
+**Status: HYPOTHESIS — not yet confirmed.** *(Epistemic uncertainty — see
+[`../METHODOLOGY.md`](../METHODOLOGY.md): resolvable in principle with satellite imagery or field
+survey data this project does not currently have.)*
 
 The working hypothesis under investigation is that failed material from the slope failure formed
 a temporary landslide/ice dam, which subsequently breached and amplified the downstream flood
