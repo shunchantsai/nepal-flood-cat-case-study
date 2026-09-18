@@ -1,13 +1,16 @@
 # Event Reconstruction & Hazard Chain
 
-*Full bibliography: [`../data/sources.md`](../data/sources.md).*
+*Full bibliography: [`../data/sources.md`](../data/sources.md). Uncertainty framework and
+status-tag definitions: [`../METHODOLOGY.md`](../METHODOLOGY.md).*
 
 ## 1. Chronological timeline
 
 Status legend: **CONFIRMED** = corroborated by an official/technical source (USGS, ICIMOD, Nepal
-NDRRMA/Police). **HYPOTHESIS** = plausible mechanism still under investigation, not yet confirmed.
-**REPORTED** = figures reported by official sources but explicitly provisional/still being
-reconciled across agencies.
+NDRRMA/Police) or by multiple independent reputable sources converging on the same account.
+**HYPOTHESIS** = plausible mechanism still under investigation, not yet confirmed. **REPORTED** =
+figures reported by official sources but explicitly provisional/still being reconciled across
+agencies. See [`../METHODOLOGY.md`](../METHODOLOGY.md) for the full uncertainty framework,
+including the epistemic/aleatory distinction used in §3 below.
 
 | Time (local, 26 Aug 2026 unless noted) | Event | Status | Source |
 |---|---|---|---|
@@ -17,7 +20,7 @@ reconciled across agencies.
 | ~T+30 min | Trishuli River, Galchhi gauge: water level rises ~9 m in ~30 minutes | CONFIRMED | [ICIMOD press release](https://www.icimod.org/press-release/major-flash-flood-sweeps-through-nepals-rasuwa-district-raising-fears-of-further-downstream-flooding/) |
 | ~T+30 min | Trishuli River, Malekhu gauge: water level rises ~7 m in a similar window | CONFIRMED | [ICIMOD press release](https://www.icimod.org/press-release/major-flash-flood-sweeps-through-nepals-rasuwa-district-raising-fears-of-further-downstream-flooding/) |
 | ~T+40 min | Flood/debris wave reaches the Rasuwagadhi border crossing and downstream corridor settlements | CONFIRMED | [USGS Landslide Response page](https://www.usgs.gov/programs/landslide-hazards/science/2026-nepal-debris-avalanche-and-flash-flood) |
-| T+40 min onward | Corridor infrastructure impact: border crossing, roads, bridges, settlements, hydropower facilities along the Bhote Koshi–Trishuli corridor | CONFIRMED (occurrence) / illustrative in this project for depth/extent (see Module 2) | [2026 Nepal–Tibet floods — Wikipedia](https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods) (aggregator; see article references for primary sources) |
+| T+40 min onward | Corridor infrastructure impact: border crossing, roads, bridges, settlements, hydropower facilities along the Bhote Koshi–Trishuli corridor | CONFIRMED (occurrence) / illustrative in this project for depth/extent (see [`../02_exposure_vulnerability/`](../02_exposure_vulnerability/)) | [2026 Nepal–Tibet floods — Wikipedia](https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods) (aggregator; see article references for primary sources) |
 | ~11:46 NPT | Second seismic signal, M4.2, also attributed to slope instability. USGS's event page for this signal (event ID us7000tc90) lists a precise origin time of 06:00:35 UTC, which converts to ~11:46 NPT (UTC+5:45) — this supersedes the earlier "about three hours after" approximation used in a prior draft of this table | CONFIRMED | [USGS event page, second signal (us7000tc90)](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc90/executive) |
 | 4 Sept 2026 | Two workers — Sanjay Sah/Shah (mechanical foreman) and Kabir Maharjan (mechanical supervisor) — rescued alive from the main tunnel at the Trishuli 3A hydropower construction site, nine days after the flood | CONFIRMED | [Al Jazeera, 4 Sept 2026](https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel) |
 | 5 Sept 2026 | A Chinese national (Lu Haitao) rescued from a hydropower tunnel after being trapped for 10 days, reported by CNN as the Upper Trishuli-1 project. **Note:** one other outlet's photo caption attributes this rescue to Trishuli-3A instead — treated here as a minor, unresolved sourcing conflict rather than settled fact | CONFIRMED (occurrence) / site attribution disputed across sources | [CNN, 5 Sept 2026](https://www.cnn.com/2026/09/05/world/live-news/nepal-china-flood) |
@@ -26,7 +29,7 @@ reconciled across agencies.
 **Reference point — comparable prior event:** the same general corridor experienced a comparable-scale
 flood 14 months earlier: the July 2025 Rasuwagadhi glacial lake outburst flood, sourced from the
 Tibet side. This event's failure point is assessed as being on the Nepal side.
-*(CONFIRMED as a distinct prior event — [Reuters, 10 July 2025](https://www.reuters.com/sustainability/climate-energy/tibetan-glacial-lake-drainage-triggered-deadly-flood-nepal-climate-body-says-2025-07-10/); the significance of "two major events in 14 months" for return-period assumptions is a framing question raised in Module 4, not a statistical claim.)*
+*(CONFIRMED as a distinct prior event — [Reuters, 10 July 2025](https://www.reuters.com/sustainability/climate-energy/tibetan-glacial-lake-drainage-triggered-deadly-flood-nepal-climate-body-says-2025-07-10/); the significance of "two major events in 14 months" for return-period assumptions is a framing question raised in [`../04_scenarios/stress_test_table.R`](../04_scenarios/stress_test_table.R), not a statistical claim.)*
 
 ---
 
@@ -70,7 +73,9 @@ separate national authorities, not yet reconciled with Nepal-side figures):
 
 ## 3. Open question: was there a temporary landslide/ice dam?
 
-**Status: HYPOTHESIS — not yet confirmed.**
+**Status: HYPOTHESIS — not yet confirmed.** *(Epistemic uncertainty — see
+[`../METHODOLOGY.md`](../METHODOLOGY.md): resolvable in principle with satellite imagery or field
+survey data this project does not currently have.)*
 
 The working hypothesis under investigation is that failed material from the slope failure formed
 a temporary landslide/ice dam, which subsequently breached and amplified the downstream flood
@@ -136,8 +141,8 @@ different fill — from the confirmed steps around it.)*
 ## 5. Why this corridor is structurally high-risk
 
 Each claim below is cross-referenced to the real aggregate figures in
-`02_exposure_vulnerability/known_damage_totals.csv` where applicable, rather than stated as an
-unsupported assertion.
+[`../02_exposure_vulnerability/known_damage_totals.csv`](../02_exposure_vulnerability/known_damage_totals.csv)
+where applicable, rather than stated as an unsupported assertion.
 
 - **Narrow, steep terrain:** the valley leaves little room for energy to dissipate. *(Qualitative;
   no aggregate figure — supports the mechanism narrative in §4.)*
@@ -147,15 +152,17 @@ unsupported assertion.
 - **Infrastructure concentration:** the corridor carries the border crossing, **41 bridges swept
   away plus 4 damaged**, **~41 km of road damaged/destroyed in Rasuwa**, and **14 hydropower
   projects (~748 MW combined)** — all sited along the same narrow valley.
-  *(Source: `known_damage_totals.csv`, itself sourced from official Nepal figures compiled Sept
-  2026; cross-checked against the [Nepal Electricity Authority's reported 748 MW figure](https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods).)*
+  *(Source: [`../02_exposure_vulnerability/known_damage_totals.csv`](../02_exposure_vulnerability/known_damage_totals.csv),
+  itself sourced from official Nepal figures compiled Sept 2026; cross-checked against the
+  [Nepal Electricity Authority's reported 748 MW figure](https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods).)*
 - **Monitoring vulnerability:** four automatic hydrological monitoring stations were destroyed
   during the event, degrading real-time visibility exactly when it was most needed.
   *(CONFIRMED — [Wikipedia timeline of the 2026 Nepal floods](https://en.wikipedia.org/wiki/Timeline_of_the_2026_Nepal_floods).)*
 - **Repeat-event signal:** two major events in the same corridor within 14 months (July 2025
   Rasuwagadhi GLOF; this event) raises the question of whether historical return-period
   assumptions (e.g., "50-year flood") for this specific corridor are still appropriate. This is
-  developed as a framing question, not a statistical claim, in `04_scenarios/`.
+  developed as a framing question, not a statistical claim, in
+  [`../04_scenarios/stress_test_table.R`](../04_scenarios/stress_test_table.R).
 
 ---
 
@@ -176,4 +183,4 @@ generate misleading seismic signatures — not as evidence about how this specif
 2. **Infrastructure concentration map:** overlay bridges, roads, hydropower facilities, and
    settlements along the corridor.
 
-*(In progress — tracked in `NEXT_STEPS.md`.)*
+*(In progress — tracked in [`../NEXT_STEPS.md`](../NEXT_STEPS.md).)*
