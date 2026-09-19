@@ -81,8 +81,7 @@ nepal-flood-cat-case-study/
 │   └── data_limitations.md
 ├── 03_insurance_financial_layer/
 │   ├── policy_and_reinsurance_structure.md
-│   ├── claims_and_combined_ratio_analysis.R
-│   └── protection_gap_analysis.R
+│   └── module3_insurance_charts.ipynb
 ├── 04_scenarios/
 │   └── stress_test_table.R
 ├── report/

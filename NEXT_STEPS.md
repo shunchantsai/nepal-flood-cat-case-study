@@ -12,8 +12,9 @@ that module files (README, timeline, etc.) read as finished documents rather tha
 - [ ] Place both finished maps in `01_event_reconstruction/maps/` and embed them in the .md file.
 - [ ] Render the ASCII hazard-chain sketch (§4) as an actual diagram, with CONFIRMED vs HYPOTHESIS
       steps visually distinguished.
-- [ ] Reconcile README's hazard-chain description with Module 1's HYPOTHESIS flag on dam
-      formation/breach (README currently implies a fully "documented" chain).
+- [x] Module 3: Python notebook is the only analysis/chart artifact
+      (`module3_insurance_charts.ipynb`). Separate claims/protection-gap scripts
+      were never added and are not part of the project.
 - [ ] Fix skills-mapping table: Gouli et al. / Khadka et al. should be credited under Module 4
       (scenario/exposure modelling), not as Module 1 event-reconstruction sourcing.
 
@@ -24,7 +25,5 @@ that module files (README, timeline, etc.) read as finished documents rather tha
 
 ## Later modules
 - [ ] Module 2: cite a specific literature source (JRC or HAZUS) for vulnerability curves.
-- [ ] Module 3: reconcile `claims_and_combined_ratio_analysis.R` / `protection_gap_analysis.R`
-      (referenced in repo structure) vs. the existing Python notebook — decide on one and update
-      the other's reference.
+- [x] Module 3: Python notebook is the only analysis/chart artifact (`module3_insurance_charts.ipynb`).
 - [ ] Report + slides: not yet started.

@@ -53,7 +53,7 @@ Insurance coverage along this corridor is not a binary "insured or not." It beha
 | Government-estimated total direct national loss | ~US$2.6 billion |
 | Estimated reconstruction need | ~US$4–5 billion |
 
-Insured claims represent roughly **6-7% of the estimated total loss** — see `protection_gap_analysis.R` for the chart. The remainder is split between uninsured public infrastructure (falls to government fiscal response — Nepal has a US$150 million World Bank Catastrophe Deferred Drawdown Option approved in October 2024 for exactly this kind of liquidity need) and dispersed household/informal risk (largely uncovered, per UNDP Nepal's 2024 diagnostic, which notes microinsurance and agricultural insurance reach low-income households and smallholders through an almost entirely separate system from hydropower/commercial engineering insurance).
+Insured claims represent roughly **6-7% of the estimated total loss** — see [module3_insurance_charts.ipynb](module3_insurance_charts.ipynb) for the chart. The remainder is split between uninsured public infrastructure (falls to government fiscal response — Nepal has a US$150 million World Bank Catastrophe Deferred Drawdown Option approved in October 2024 for exactly this kind of liquidity need) and dispersed household/informal risk (largely uncovered, per UNDP Nepal's 2024 diagnostic, which notes microinsurance and agricultural insurance reach low-income households and smallholders through an almost entirely separate system from hydropower/commercial engineering insurance).
 
 ## The core analytical point
 
