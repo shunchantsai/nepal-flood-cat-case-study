@@ -2,6 +2,8 @@
 
 This project analyzes an active, ongoing disaster. As of ~5 September 2026 (see [`01_event_reconstruction/timeline_and_hazard_chain.md`](01_event_reconstruction/timeline_and_hazard_chain.md) for the dated, sourced breakdown), over 1,300 people are confirmed dead and thousands remain missing across Nepal and the Tibet Autonomous Region, with tens of thousands displaced — figures still being reconciled across agencies. This analysis is offered in the belief that honest catastrophe risk analytics — done carefully — is part of how disasters like this one get better understood, financed, and reduced in the future. It is not a purely technical exercise performed on top of a tragedy.
 
+*Last reviewed: 20 September 2026.*
+
 ## Objective
 
 **Research question:** What would an insurer, reinsurer, or public risk-finance institution need to understand about the catastrophe risk exposed by the August 2026 Nepal/Tibet border flood-debris cascade?
@@ -10,7 +12,7 @@ This project analyzes an active, ongoing disaster. As of ~5 September 2026 (see 
 
 Most portfolio projects in this space are hazard-only: rainfall → flood map → buildings → damage. This one leans on two things that are harder to fake:
 
-1. **A documented cascading hazard chain**, not a single-mechanism flood: a high-altitude rock/ice slope failure that produced a seismic signal initially indistinguishable from an earthquake, a possible transient landslide dam, a debris flood, and a cross-border infrastructure corridor failure — all within roughly 40 minutes of the trigger reaching populated areas.
+1. **A cascading hazard chain**, not a single-mechanism flood: a high-altitude rock/ice slope failure that produced a seismic signal initially indistinguishable from an earthquake, a debris flood, and a cross-border infrastructure corridor failure — all within roughly 40 minutes of the trigger reaching populated areas. A transient landslide dam remains a **HYPOTHESIS** (see `01_event_reconstruction/timeline_and_hazard_chain.md`).
 2. **Real insurance and reinsurance market data**, sourced from the Nepal Insurance Authority's 2026 hydropower insurance report — actual policy structures, actual reinsurance treaty/facultative splits, actual claims settlement timelines, and actual combined ratios. This is the centerpiece of the project (see `03_insurance_financial_layer/`).
 
 ## Methodology
@@ -63,7 +65,9 @@ nepal-flood-cat-case-study/
 
 | CAT modelling requirement | Demonstrated by |
 |---|---|
-| Hazard science / literature synthesis | Event reconstruction built on published cross-border GLOF/debris-flow studies (Gouli et al. 2025, Khadka et al. 2024) |
+| Hazard science / literature synthesis | Event reconstruction from USGS event pages, official disaster reporting, and cascading-hazard literature (Kirschbaum et al. 2019; Shugar et al. 2021) |
+| Exposure & vulnerability modelling | Illustrative exposure table + labelled placeholder depth-damage functions, sanity-checked against official damage totals |
+| Stress testing / scenario analysis | Scenario table grounded in published extreme-discharge modelling for this basin (Gouli et al. 2025; Khadka et al. 2024) |
 | Exposure & vulnerability modelling | Illustrative exposure table + labelled vulnerability functions, calibrated to known damage totals |
 | Insurance & reinsurance mechanics | Real policy/reinsurance structure analysis (NIA 2026 report) |
 | Portfolio / accumulation risk | Corridor concentration + treaty capacity discussion |

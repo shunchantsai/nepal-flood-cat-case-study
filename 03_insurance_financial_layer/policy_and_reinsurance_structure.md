@@ -1,3 +1,7 @@
+*Full bibliography: [`../data/sources.md`](../data/sources.md). Uncertainty framework: [`../METHODOLOGY.md`](../METHODOLOGY.md). Charts: [`module3_insurance_charts.ipynb`](module3_insurance_charts.ipynb).*
+
+*Primary source: Nepal Insurance Authority (NIA), May 2026, "Hydropower Insurance in Nepal: Assessment of Trends, Challenges, and Opportunities for Reform." Five-year market dataset, 121 paid claims. Additional sources: The Statesman / News18 / OnlineKhabar (26–27 Aug 2026); NEPSE; People's Review (Aug 2025); UNDP Nepal (2024); World Bank (Oct 2024).*
+
 # Insurance & Reinsurance Structure
 
 *Primary source: Nepal Insurance Authority (NIA), May 2026, "Hydropower Insurance in Nepal: Assessment of Trends, Challenges, and Opportunities for Reform." Five-year market dataset, 121 paid claims. Additional sources: The Statesman / News18 / OnlineKhabar (26–27 Aug 2026); NEPSE; People's Review (Aug 2025); UNDP Nepal (2024); World Bank (Oct 2024). See `data/sources.md`.*
@@ -41,9 +45,11 @@ Insurance coverage along this corridor is not a binary "insured or not." It beha
 ## This event, in that context
 
 - China's national financial regulator activated a second-tier disaster-response protocol for the insurance sector on the Tibet side following the 26 August event; some insurers began processing motor claims quickly. Motor claims are easy to adjust; a hydropower plant is not.
-- On the Nepal side, by 26–27 August, NIA had received reports of damage to ~13 hydropower projects (~354 MW operating, ~394 MW under construction, ~748 MW combined). NEPSE's non-life insurance index fell 3.90% and the hydropower index fell 2.84% on the day — the market was already pricing in claims expectations before formal loss adjustment had occurred.
+- On the Nepal side, by 26–27 August, NIA had received reports of damage to ~13 hydropower projects (~354 MW operating, ~394 MW under construction, ~748 MW combined). The compiled aggregate table in `../02_exposure_vulnerability/known_damage_totals.csv` lists 14 projects at the same 748 MW — treated here as the same corridor total with an unresolved one-project counting difference across sources, not as two different events. NEPSE's non-life insurance index fell 3.90% and the hydropower index fell 2.84% on the day — the market was already pricing in claims expectations before formal loss adjustment had occurred.
 - By end of August, the Nepal insurance industry had received **583 flood-related claims totalling approximately NPR 25.87 billion (~US$171 million)** — concentrated in commercial/hydropower assets.
 - The 2025 Rasuwa flood is a useful benchmark: as of early August 2025, NIA had received 78 claims totalling ~NPR 985.9 million across property, marine, engineering/contractor, and motor lines — evidence this corridor already has an active, tested (if strained) claims infrastructure.
+
+> **⚠ Figures as of end of August 2026 — provisional.** These are *filed* insurance-industry flood claims versus a government national-loss estimate and a reconstruction-need range. Filed ≠ paid. Claims are concentrated in commercial/hydropower assets. This is a snapshot, not a precise insured-to-exposed ratio.
 
 ## The protection gap (headline number for the report)
 
@@ -53,7 +59,7 @@ Insurance coverage along this corridor is not a binary "insured or not." It beha
 | Government-estimated total direct national loss | ~US$2.6 billion |
 | Estimated reconstruction need | ~US$4–5 billion |
 
-Insured claims represent roughly **6-7% of the estimated total loss** — see [module3_insurance_charts.ipynb](module3_insurance_charts.ipynb) for the chart. The remainder is split between uninsured public infrastructure (falls to government fiscal response — Nepal has a US$150 million World Bank Catastrophe Deferred Drawdown Option approved in October 2024 for exactly this kind of liquidity need) and dispersed household/informal risk (largely uncovered, per UNDP Nepal's 2024 diagnostic, which notes microinsurance and agricultural insurance reach low-income households and smallholders through an almost entirely separate system from hydropower/commercial engineering insurance).
+Insured claims represent roughly **6–7% of the estimated total direct national loss** — see [module3_insurance_charts.ipynb](module3_insurance_charts.ipynb) for the chart. The remainder is split between uninsured public infrastructure (falls to government fiscal response — Nepal has a US$150 million World Bank Catastrophe Deferred Drawdown Option approved in October 2024 for exactly this kind of liquidity need) and dispersed household/informal risk (largely uncovered, per UNDP Nepal's 2024 diagnostic, which notes microinsurance and agricultural insurance reach low-income households and smallholders through an almost entirely separate system from hydropower/commercial engineering insurance).
 
 ## The core analytical point
 

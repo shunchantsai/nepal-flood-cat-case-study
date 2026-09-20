@@ -5,25 +5,24 @@ that module files (README, timeline, etc.) read as finished documents rather tha
 
 ## Module 1 — Event reconstruction
 - [ ] Build event location map (Nepal/Tibet border → slope-failure source → Bhote Koshi →
-      Trishuli corridor). See `01_event_reconstruction/timeline_and_hazard_chain.md` §7 for base
-      layer suggestions.
-- [ ] Build infrastructure concentration map (bridges, roads, hydropower, settlements along the
-      corridor).
-- [ ] Place both finished maps in `01_event_reconstruction/maps/` and embed them in the .md file.
-- [ ] Render the ASCII hazard-chain sketch (§4) as an actual diagram, with CONFIRMED vs HYPOTHESIS
+      Trishuli corridor). See `01_event_reconstruction/timeline_and_hazard_chain.md` §7.
+- [ ] Build infrastructure concentration map (bridges, roads, hydropower, settlements).
+- [ ] Place both maps in `01_event_reconstruction/maps/` and embed them in the timeline file.
+- [ ] Render the ASCII hazard-chain sketch (§4) as a diagram, with CONFIRMED vs HYPOTHESIS
       steps visually distinguished.
-- [x] Module 3: Python notebook is the only analysis/chart artifact
-      (`module3_insurance_charts.ipynb`). Separate claims/protection-gap scripts
-      were never added and are not part of the project.
-- [ ] Fix skills-mapping table: Gouli et al. / Khadka et al. should be credited under Module 4
-      (scenario/exposure modelling), not as Module 1 event-reconstruction sourcing.
+- [ ] Soften the README line that calls the full chain "documented" — dam formation/breach
+      is still HYPOTHESIS in Module 1.
 
 ## Repo hygiene
+- [x] Add `.gitignore` and stop tracking `.DS_Store`.
 - [ ] Add a `LICENSE` file (e.g. MIT or CC BY 4.0).
-- [ ] Remove `.DS_Store` and add it to `.gitignore`.
-- [ ] Add a "last reviewed: [date]" line to the README given this is an active/dynamic event.
+- [ ] Add a "last reviewed: [date]" line to the README.
 
 ## Later modules
-- [ ] Module 2: cite a specific literature source (JRC or HAZUS) for vulnerability curves.
-- [x] Module 3: Python notebook is the only analysis/chart artifact (`module3_insurance_charts.ipynb`).
+- [ ] Module 2: cite JRC or HAZUS for the placeholder depth-damage curves; record the
+      illustrative model total (~US$33.3 million) vs official national loss (~US$2.6 billion)
+      in `data_limitations.md`.
+- [x] Module 3: Python notebook is the only chart artifact
+      (`module3_insurance_charts.ipynb`).
+- [x] Module 4: Python scenario table (`04_scenarios/stress_test_table.py`).
 - [ ] Report + slides: not yet started.
