@@ -77,13 +77,13 @@ nepal-flood-cat-case-study/
 │   └── maps/
 ├── 02_exposure_vulnerability/
 │   ├── exposure_table.csv
-│   ├── vulnerability_functions.R (or .py)
+│   ├── vulnerability_functions.py (or .py)
 │   └── data_limitations.md
 ├── 03_insurance_financial_layer/
 │   ├── policy_and_reinsurance_structure.md
 │   └── module3_insurance_charts.ipynb
 ├── 04_scenarios/
-│   └── stress_test_table.R
+│   └── stress_test_table.py
 ├── report/
 │   └── Nepal_CAT_Report.pdf   (10–15 pages, not 25)
 ├── slides/

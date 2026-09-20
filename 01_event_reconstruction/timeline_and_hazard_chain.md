@@ -29,7 +29,7 @@ including the epistemic/aleatory distinction used in §3 below.
 **Reference point — comparable prior event:** the same general corridor experienced a comparable-scale
 flood 14 months earlier: the July 2025 Rasuwagadhi glacial lake outburst flood, sourced from the
 Tibet side. This event's failure point is assessed as being on the Nepal side.
-*(CONFIRMED as a distinct prior event — [Reuters, 10 July 2025](https://www.reuters.com/sustainability/climate-energy/tibetan-glacial-lake-drainage-triggered-deadly-flood-nepal-climate-body-says-2025-07-10/); the significance of "two major events in 14 months" for return-period assumptions is a framing question raised in [`../04_scenarios/stress_test_table.R`](../04_scenarios/stress_test_table.R), not a statistical claim.)*
+*(CONFIRMED as a distinct prior event — [Reuters, 10 July 2025](https://www.reuters.com/sustainability/climate-energy/tibetan-glacial-lake-drainage-triggered-deadly-flood-nepal-climate-body-says-2025-07-10/); the significance of "two major events in 14 months" for return-period assumptions is a framing question raised in [`../04_scenarios/stress_test_table.py`](../04_scenarios/stress_test_table.py), not a statistical claim.)*
 
 ---
 
@@ -162,7 +162,7 @@ where applicable, rather than stated as an unsupported assertion.
   Rasuwagadhi GLOF; this event) raises the question of whether historical return-period
   assumptions (e.g., "50-year flood") for this specific corridor are still appropriate. This is
   developed as a framing question, not a statistical claim, in
-  [`../04_scenarios/stress_test_table.R`](../04_scenarios/stress_test_table.R).
+  [`../04_scenarios/stress_test_table.py`](../04_scenarios/stress_test_table.py).
 
 ---
 

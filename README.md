@@ -44,13 +44,13 @@ nepal-flood-cat-case-study/
 ├── 02_exposure_vulnerability/
 │   ├── exposure_table.csv         (illustrative, asset-level)
 │   ├── known_damage_totals.csv    (real, official aggregate figures to calibrate against)
-│   ├── vulnerability_functions.R
+│   ├── vulnerability_functions.py
 │   └── data_limitations.md
 ├── 03_insurance_financial_layer/
 │   ├── policy_and_reinsurance_structure.md
 │   └── module3_insurance_charts.ipynb
 ├── 04_scenarios/
-│   └── stress_test_table.R
+│   └── stress_test_table.py
 ├── report/
 │   └── (10–15 page technical report goes here)
 ├── slides/

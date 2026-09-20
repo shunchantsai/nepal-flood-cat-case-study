@@ -47,13 +47,13 @@ reconciled across agencies (`01_event_reconstruction/timeline_and_hazard_chain.m
 
 Genuine aleatory uncertainty is narrower, and is treated explicitly as such where it appears.
 The clearest case is the return-period question raised in
-`04_scenarios/stress_test_table.R`: with two major events in this corridor within 14 months,
+`04_scenarios/stress_test_table.py`: with two major events in this corridor within 14 months,
 is a single fixed historical return-period assumption still appropriate? That question is
 about the natural, irreducible variability in when and how large the next triggering event
 will be — not something more research alone resolves. This project deliberately does not
 fabricate a synthetic annual-frequency distribution to answer it, since doing so would require
 assuming a resolved probability model this project does not have the underlying data to
-support. The scenario/stress-test table in `04_scenarios/stress_test_table.R` is the honest
+support. The scenario/stress-test table in `04_scenarios/stress_test_table.py` is the honest
 alternative: it bounds plausible outcomes without pretending to know their probabilities.
 
 ## Applying this
