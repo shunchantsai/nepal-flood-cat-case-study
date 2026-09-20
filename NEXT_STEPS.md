@@ -10,7 +10,7 @@ that module files (README, timeline, etc.) read as finished documents rather tha
 - [ ] Place both maps in `01_event_reconstruction/maps/` and embed them in the timeline file.
 - [ ] Render the ASCII hazard-chain sketch (§4) as a diagram, with CONFIRMED vs HYPOTHESIS
       steps visually distinguished.
-- [ ] Soften the README line that calls the full chain "documented" — dam formation/breach
+- [x] Soften the README line that calls the full chain "documented" — dam formation/breach
       is still HYPOTHESIS in Module 1.
 
 ## Repo hygiene

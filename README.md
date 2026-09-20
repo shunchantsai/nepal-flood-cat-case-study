@@ -67,14 +67,12 @@ nepal-flood-cat-case-study/
 |---|---|
 | Hazard science / literature synthesis | Event reconstruction from USGS event pages, official disaster reporting, and cascading-hazard literature (Kirschbaum et al. 2019; Shugar et al. 2021) |
 | Exposure & vulnerability modelling | Illustrative exposure table + labelled placeholder depth-damage functions, sanity-checked against official damage totals |
-| Stress testing / scenario analysis | Scenario table grounded in published extreme-discharge modelling for this basin (Gouli et al. 2025; Khadka et al. 2024) |
-| Exposure & vulnerability modelling | Illustrative exposure table + labelled vulnerability functions, calibrated to known damage totals |
 | Insurance & reinsurance mechanics | Real policy/reinsurance structure analysis (NIA 2026 report) |
 | Portfolio / accumulation risk | Corridor concentration + treaty capacity discussion |
 | Claims & operational risk | Claims settlement time-to-close bottleneck analysis |
 | Underwriting performance | Combined ratio analysis |
 | Protection gap / risk finance | Insured claims vs. total estimated loss vs. reconstruction need |
-| Stress testing / scenario analysis | Scenario table grounded in published extreme discharge modelling |
+| Stress testing / scenario analysis | Scenario table grounded in published extreme-discharge modelling for this basin (Gouli et al. 2025; Khadka et al. 2024) |
 | Model governance | Discrete confidence tiers (CONFIRMED/REPORTED/HYPOTHESIS) adapted from IPCC uncertainty guidance, plus an explicit epistemic/aleatory uncertainty typology — see `METHODOLOGY.md` |
 | Communication | Report + slide deck for technical and non-technical audiences |
 

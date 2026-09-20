@@ -1,10 +1,8 @@
+# Insurance & Reinsurance Structure
+
 *Full bibliography: [`../data/sources.md`](../data/sources.md). Uncertainty framework: [`../METHODOLOGY.md`](../METHODOLOGY.md). Charts: [`module3_insurance_charts.ipynb`](module3_insurance_charts.ipynb).*
 
 *Primary source: Nepal Insurance Authority (NIA), May 2026, "Hydropower Insurance in Nepal: Assessment of Trends, Challenges, and Opportunities for Reform." Five-year market dataset, 121 paid claims. Additional sources: The Statesman / News18 / OnlineKhabar (26–27 Aug 2026); NEPSE; People's Review (Aug 2025); UNDP Nepal (2024); World Bank (Oct 2024).*
-
-# Insurance & Reinsurance Structure
-
-*Primary source: Nepal Insurance Authority (NIA), May 2026, "Hydropower Insurance in Nepal: Assessment of Trends, Challenges, and Opportunities for Reform." Five-year market dataset, 121 paid claims. Additional sources: The Statesman / News18 / OnlineKhabar (26–27 Aug 2026); NEPSE; People's Review (Aug 2025); UNDP Nepal (2024); World Bank (Oct 2024). See `data/sources.md`.*
 
 ## Who enters the formal insurance system, and who doesn't
 
