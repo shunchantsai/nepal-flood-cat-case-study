@@ -32,7 +32,7 @@ Do not build a rainfall–DEM–hydraulic flood map. Points + schematic are enou
       Nepal-calibrated.
 
 ### 3. Repo hygiene
-- [ ] Add a `LICENSE` file (MIT or CC BY 4.0).
+- [x] Add a `LICENSE` file (MIT).
 
 ### 4. Communication (what a hiring reviewer will actually open)
 - [ ] 8–10 slide executive deck in `slides/`
