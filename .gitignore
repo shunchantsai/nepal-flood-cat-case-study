@@ -3,3 +3,5 @@ __pycache__/
 02_exposure_vulnerability/exposure_table_with_loss.csv
 04_scenarios/stress_test_results.csv
 *.png
+
+!01_event_reconstruction/maps/*.png
