@@ -18,8 +18,6 @@ free of TODO language.
 ### 1. Maps and diagram (Module 1)
 - [ ] Event location map (Nepal/Tibet border → slope-failure source →
       Bhote Koshi → Trishuli corridor). See timeline §7.
-- [ ] Infrastructure concentration map (bridges, roads, hydropower, settlements).
-- [ ] Put both in `01_event_reconstruction/maps/` and embed them in the timeline.
 - [ ] Render the §4 ASCII hazard chain as a diagram; mark CONFIRMED vs HYPOTHESIS
       (dam formation/breach stays HYPOTHESIS).
 
@@ -33,6 +31,8 @@ Do not build a rainfall–DEM–hydraulic flood map. Points + schematic are enou
 
 ### 3. Repo hygiene
 - [x] Add a `LICENSE` file (MIT).
+- [x] Event location map in `01_event_reconstruction/maps/event_location.png`, embedded in timeline §7.
+- [x] Infrastructure concentration: not a second PNG. Plant status is on the location map; timeline §7 says so.
 
 ### 4. Communication (what a hiring reviewer will actually open)
 - [ ] 8–10 slide executive deck in `slides/`
