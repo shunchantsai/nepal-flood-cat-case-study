@@ -178,9 +178,11 @@ generate misleading seismic signatures — not as evidence about how this specif
 
 ## 7. Maps
 
-1. **Event location map:** Nepal/Tibet border → slope-failure source → Bhote Koshi → Trishuli
-   corridor (base layers: OSM; see also the [USGS debris avalanche map](https://www.usgs.gov/media/images/2026-nepal-debris-avalanche-and-flash-flood-map)).
-2. **Infrastructure concentration map:** overlay bridges, roads, hydropower facilities, and
-   settlements along the corridor.
+1. **Event location map:** Nepal/Tibet border → slope-failure source → Bhote Koshi → Trishuli corridor.
 
-*(In progress — tracked in [`../NEXT_STEPS.md`](../NEXT_STEPS.md).)*
+![Event location, Trishuli–Bhote Koshi corridor, 26 Aug 2026](maps/event_location.png)
+
+*Orange outline: Humanitarian OpenStreetMap Team (HOT) observed flood/debris extent, 27 Aug 2026 imagery, not a flood model. Yellow dash: schematic source-to-extent path, not in the HOT layer. Pink point: press-reported damage limit, not the end of the HOT line. UNOSAT potential exposure inside its analysed area, Rasuwa and Nuwakot: ~43 km² mudflow/rockflow, ~5,000 buildings, ~130 km of road, ~1,300 ha of cropland — not confirmed loss. Border: Natural Earth admin-0, generalised. Imagery: ESRI.*
+
+2. **Infrastructure concentration map:** overlay bridges, roads, hydropower facilities, and settlements along the corridor. Not drawn yet. Plant status is shown on the location map above.
+
