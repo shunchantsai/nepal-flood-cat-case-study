@@ -12,12 +12,13 @@ free of TODO language.
 - [x] Module 4 Python scenario table
 - [x] `.gitignore` (including `.DS_Store`, script outputs, `*.png`)
 - [x] README "last reviewed" date (20 September 2026)
+- [x] Add a `LICENSE` file (MIT).
+- [x] Event location map in `01_event_reconstruction/maps/event_location.png`, embedded in timeline §7.
+- [x] Infrastructure concentration: not a second PNG. Plant status is on the location map; timeline §7 says so.
 
 ## Still to do (application packet)
 
 ### 1. Maps and diagram (Module 1)
-- [ ] Event location map (Nepal/Tibet border → slope-failure source →
-      Bhote Koshi → Trishuli corridor). See timeline §7.
 - [ ] Render the §4 ASCII hazard chain as a diagram; mark CONFIRMED vs HYPOTHESIS
       (dam formation/breach stays HYPOTHESIS).
 
@@ -29,12 +30,7 @@ Do not build a rainfall–DEM–hydraulic flood map. Points + schematic are enou
       comment in `vulnerability_functions.py`). Still label them not
       Nepal-calibrated.
 
-### 3. Repo hygiene
-- [x] Add a `LICENSE` file (MIT).
-- [x] Event location map in `01_event_reconstruction/maps/event_location.png`, embedded in timeline §7.
-- [x] Infrastructure concentration: not a second PNG. Plant status is on the location map; timeline §7 says so.
-
-### 4. Communication (what a hiring reviewer will actually open)
+### 3. Communication (what a hiring reviewer will actually open)
 - [ ] 8–10 slide executive deck in `slides/`
       Event → cascade (dam = hypothesis) → NIA market facts → 6–7% gap
       with filed≠paid caveat → $33M ≠ $2.6B → three risk-finance layers →
