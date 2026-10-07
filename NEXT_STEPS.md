@@ -15,15 +15,13 @@ free of TODO language.
 - [x] Add a `LICENSE` file (MIT).
 - [x] Event location map in `01_event_reconstruction/maps/event_location.png`, embedded in timeline §7.
 - [x] Infrastructure concentration: not a second PNG. Plant status is on the location map; timeline §7 says so.
+- [x] OCHA Nepal Rasuwa Flood Situation Report No. 6 (as of 3 Sep 2026, 19:00): 1,259 dead, 5,083 out of contact, 12,038 rescued. Date it. Do not replace other tolls.
+- [x] UNFPA sitrep, 28 Aug–3 Sep 2026: 1,204 dead, ~4,216 unaccounted. Record the disagreement with OCHA. Do not pick one.
+- [x] Sharma et al. 2022, cascading hazards in the central Himalaya. One sentence for the timeline or methodology.
+- [x] Li et al. 2022, High Mountain Asia hydropower and landscape instability. One sentence next to the Chamoli analog.
+- [x] Park, do not mine: Westoby et al. 2014 (why no breach model), Kirschbaum et al. 2019 (remote sensing, not an inventory), USACE Rosati et al. 2015 (coastal resilience, wrong domain), NIA actuarial survey (Mar 2026) and microinsurance note (Nov 2025) unless a new market fact appears.
 
 ## Still to do (application packet)
-
-### 0a. Read before writing (5 Oct)
-- [ ] OCHA Nepal Rasuwa Flood Situation Report No. 6 (as of 3 Sep 2026, 19:00): 1,259 dead, 5,083 out of contact, 12,038 rescued. Date it. Do not replace other tolls.
-- [ ] UNFPA sitrep, 28 Aug–3 Sep 2026: 1,204 dead, ~4,216 unaccounted. Record the disagreement with OCHA. Do not pick one.
-- [ ] Sharma et al. 2022, cascading hazards in the central Himalaya. One sentence for the timeline or methodology.
-- [ ] Li et al. 2022, High Mountain Asia hydropower and landscape instability. One sentence next to the Chamoli analog.
-- [ ] Park, do not mine: Westoby et al. 2014 (why no breach model), Kirschbaum et al. 2019 (remote sensing, not an inventory), USACE Rosati et al. 2015 (coastal resilience, wrong domain), NIA actuarial survey (Mar 2026) and microinsurance note (Nov 2025) unless a new market fact appears.
 
 ### 0b. Newer event sources (after the sitreps)
 - [ ] Adhikari, Subedi et al., Seismica, 2 Oct 2026. Rock fall with some ice, ~100 million m³, north flank of Tsangbu Ri. Conflicts with the Langtang Lirung location. Record both. Do not pick.

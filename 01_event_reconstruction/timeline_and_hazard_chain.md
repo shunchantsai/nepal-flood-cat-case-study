@@ -52,6 +52,7 @@ updated 5 Sept 2026, 11:12 NPT](https://kathmandupost.com/national/2026/09/05/ne
 Later NDRRMA snapshots, not revisions of the ~5 September row:
 
 - 3 September 2026, 19:00 (OCHA Sitrep No. 6): 1,259 dead, 5,083 out of contact, 12,038 rescued.
+- UNFPA, covering 28 August–3 September: 1,204 dead, ~4,216 unaccounted. Different extract from the NDRRMA 19:00 figure the same day. Not averaged.
 - 7 September 2026, 19:00 (OCHA Sitrep No. 7): 1,356 dead, 4,894 missing, 13,396 rescued.
 
 Deaths rose and the missing count fell. Treat as recovery of bodies, not a corrected event size. Do not average the two rows.
@@ -183,11 +184,9 @@ where applicable, rather than stated as an unsupported assertion.
 
 ## 6. Useful analog (mechanism precedent, not a claim about this event)
 
-The 2021 Chamoli, India disaster (Shugar et al., 2021, *Science*, DOI: 10.1126/science.abh4455)
-involved a large rock/ice avalanche that produced a seismic signal initially attributed to an
-earthquake, before rapidly transitioning into a highly mobile debris flow that destroyed two
-hydropower plants. Cited here strictly as a mechanism precedent — large slope failures can
-generate misleading seismic signatures — not as evidence about how this specific event unfolded.
+This corridor sits in a range where a first failure often does not stay a first failure. Sharma et al. (2022, *Natural Hazards*) describe the central Himalayan pattern: a primary slope failure can trigger a chain — a landslide dam, then a debris flow or outburst flood — and plans written for a single hazard miss the sequence. Chamoli, India, in 2021 is the worked example of that pattern (Shugar et al., 2021, *Science*, DOI: 10.1126/science.abh4455): a large rock/ice avalanche produced a seismic signal first attributed to an earthquake, then became a highly mobile debris flow and destroyed two hydropower plants. Chamoli is cited here for two things: as an example of the hazard class, and as a precedent for a seismic signal that was initially misread. Neither paper is evidence for how the 26 August failure started, or for whether a lake formed and breached. 
+
+Li et al. (2022, Nature Geoscience) make the asset point at system scale: a plant sized for its design river can still be failed by an upstream cascade — rock-ice avalanche, debris flow, outburst — that arrives as a sediment pulse, fills storage, abrades turbines, and can threaten the dam. They also note that newer High Mountain Asia hydropower is trending toward sites closer to the glaciers, compounding this exposure. This is part of the context for why hydropower assets dominate the insured loss here, not a finding about the 26 August source or a design recommendation.
 
 ---
 
