@@ -18,6 +18,8 @@
 - China National Financial Regulatory Administration / CCTV / Xinhua, 26–27 August 2026 — Tibet-side insurance sector emergency response
 - UNDP Nepal, 2024 — "Country Diagnostic on Inclusive Insurance and Risk Finance for Nepal"
 - World Bank, 8 October 2024 — US$150 million Disaster Resilience Development Policy Credit with Catastrophe Deferred Drawdown Option (Cat DDO)
+- OCHA / UN Resident Coordinator Nepal, Rasuwa Flood Situation Report No. 6, as of 3 September 2026 (covers 2–3 September). NDRRMA toll 3 September 19:00; RAPIDA building-damage and debris figures.
+- OCHA / UN Resident Coordinator Nepal, Rasuwa Flood Situation Report No. 7, as of 8 September 2026 (covers 4–7 September). NDRRMA toll 7 September 19:00; Upper Trishuli-1 tunnel rescue; 1,800+ ha agricultural land, unverified crop losses.
 
 ## Primary compilation
 - Original research and event/insurance analysis compiled across a three-part Threads series (source material for this project)

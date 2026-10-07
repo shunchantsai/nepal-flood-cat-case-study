@@ -23,7 +23,7 @@ including the epistemic/aleatory distinction used in §3 below.
 | T+40 min onward | Corridor infrastructure impact: border crossing, roads, bridges, settlements, hydropower facilities along the Bhote Koshi–Trishuli corridor | CONFIRMED (occurrence) / illustrative in this project for depth/extent (see [`../02_exposure_vulnerability/`](../02_exposure_vulnerability/)) | [2026 Nepal–Tibet floods — Wikipedia](https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods) (aggregator; see article references for primary sources) |
 | ~11:46 NPT | Second seismic signal, M4.2, also attributed to slope instability. USGS's event page for this signal (event ID us7000tc90) lists a precise origin time of 06:00:35 UTC, which converts to ~11:46 NPT (UTC+5:45) | CONFIRMED | [USGS event page, second signal (us7000tc90)](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc90/executive) |
 | 4 Sept 2026 | Two workers — Sanjay Sah/Shah (mechanical foreman) and Kabir Maharjan (mechanical supervisor) — rescued alive from the main tunnel at the Trishuli 3A hydropower construction site, nine days after the flood | CONFIRMED | [Al Jazeera, 4 Sept 2026](https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel) |
-| 5 Sept 2026 | A Chinese national (Lu Haitao) rescued from a hydropower tunnel after being trapped for 10 days, reported by CNN as the Upper Trishuli-1 project. **Note:** one other outlet's photo caption attributes this rescue to Trishuli-3A instead — treated here as a minor, unresolved sourcing conflict rather than settled fact | CONFIRMED (occurrence) / site attribution disputed across sources | [CNN, 5 Sept 2026](https://www.cnn.com/2026/09/05/world/live-news/nepal-china-flood) |
+| 5 Sept 2026 | A Chinese national (Lu Haitao) rescued from a hydropower tunnel after being trapped for 10 days, reported by CNN as the Upper Trishuli-1 project. **Note:** one other outlet's photo caption attributes this rescue to Trishuli-3A instead. OCHA Sitrep No. 7 (covering 4–7 September) also places this rescue at the Upper Trishuli-1 tunnel. The 4 September Trishuli 3A worker rescue is a different row and is unchanged. | CONFIRMED (occurrence); site reported as Upper Trishuli-1 by CNN and OCHA, with one conflicting caption for Trishuli-3A | [CNN, 5 Sept 2026](https://www.cnn.com/2026/09/05/world/live-news/nepal-china-flood); [OCHA Sitrep No. 7](https://reliefweb.int/report/nepal/nepal-rasuwa-flood-situation-report-no-7-8-september-2026) |
 | 5 Sept 2026 | Chandika Kumari Shrestha (64), a resident of Betrawati (Bidur Municipality-10, Nuwakot district), rescued alive from the upper floor of her collapsed four-storey home, 10 days after the flood | CONFIRMED | [Kathmandu Post, 5 Sept 2026](https://kathmandupost.com/national/2026/09/05/woman-rescued-alive-after-10-days-trapped-in-debris-buried-house) |
 
 **Reference point — comparable prior event:** the same general corridor experienced a comparable-scale
@@ -49,11 +49,25 @@ updated 5 Sept 2026, 11:12 NPT](https://kathmandupost.com/national/2026/09/05/ne
 | Still reported missing | 4,886 |
 | Bodies formally identified and buried | 1,030 |
 
+Later NDRRMA snapshots, not revisions of the ~5 September row:
+
+- 3 September 2026, 19:00 (OCHA Sitrep No. 6): 1,259 dead, 5,083 out of contact, 12,038 rescued.
+- 7 September 2026, 19:00 (OCHA Sitrep No. 7): 1,356 dead, 4,894 missing, 13,396 rescued.
+
+Deaths rose and the missing count fell. Treat as recovery of bodies, not a corrected event size. Do not average the two rows.
+
+Access (both sitreps): damaged roads and collapsed bridges left parts of upper Rasuwa reachable only on foot; by 4–7 September helicopters were still the only access for some communities. Same corridor assets that were damaged also blocked relief. 
+
+Displacement was still moving. Sitrep No. 6: 3,844 people in 34 sites. Sitrep No. 7: 3,629 people in 37 sites. Schools in use as shelters rose from 8 to 25; damaged-school counts from at least 20 to at least 23, and No. 7 says assessments were ongoing. Not a final inventory.
+
+Fiscal note, not an insurance payment: Flash Appeal US$49.6 million for 84,270 people through 31 December 2026, across Rasuwa, Nuwakot, Dhading, Chitwan, Gorkha and Tanahu. CERF (UN Central Emergency Response Fund) US$2.5 million for the initial response. Both sitreps say the appeal is not recovery or reconstruction; that waits on a Post-Disaster Needs Assessment, which these reports do not contain.
+
 > Note: the previous version of this table also carried figures for total rescued (13,098) and
 > hydropower workers reported missing (~900, of whom ~500 believed trapped in tunnels). Those
 > figures do **not** appear in this specific dated article and have been removed pending
 > re-sourcing from a specific, dated primary source — re-add only once verified against an
 > article with the same rigor applied here.
+
 
 **Tibet side** (source: [Xinhua, "西藏吉隆泥石流灾害已致31人遇难531人失联" ("The Gyirong,
 Tibet mudslide disaster has left 31 dead and 531 missing"), published 4 Sept 2026 — figures
@@ -155,6 +169,7 @@ where applicable, rather than stated as an unsupported assertion.
   *(Source: [`../02_exposure_vulnerability/known_damage_totals.csv`](../02_exposure_vulnerability/known_damage_totals.csv),
   itself sourced from official Nepal figures compiled Sept 2026; cross-checked against the
   [Nepal Electricity Authority's reported 748 MW figure](https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods).)*
+- **Debris, not a uniform flood depth:** Sitrep No. 6, Nepali Army: clearing hydropower tunnels may take 3–4 months; at Rasuwagadhi, teams reached about 150 m into a tunnel and were blocked by rock. Sitrep No. 7: downstream districts had less property damage and more debris deposition. REPORTED, operational estimates, not a modelled depth.
 - **Monitoring vulnerability:** four automatic hydrological monitoring stations were destroyed
   during the event, degrading real-time visibility exactly when it was most needed.
   *(CONFIRMED — [Wikipedia timeline of the 2026 Nepal floods](https://en.wikipedia.org/wiki/Timeline_of_the_2026_Nepal_floods).)*

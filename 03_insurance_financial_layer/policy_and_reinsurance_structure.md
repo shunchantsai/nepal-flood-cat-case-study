@@ -74,4 +74,6 @@ Dispersed, remote, poorly-documented risk (households, small livelihoods)
    → largely uncovered → self-recovery / humanitarian assistance
 ```
 
+OCHA Sitrep No. 7 (4–7 September) reports more than 1,800 hectares of agricultural land lost, with medium-term effects on food and income beyond directly flooded households. Crop, livestock and land estimates were still unverified. The same sitrep notes assistance gaps for people staying with host families rather than in displacement sites. These sit in the third layer above, not in the NIA hydropower filings.
+
 The question this event actually raises for a risk-finance audience isn't "was this insured?" It's: **"who can transfer this risk, to whom, and what's left over that someone has to absorb directly?"**
