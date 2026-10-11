@@ -51,6 +51,10 @@ failed does not change the path downstream.
 peak, flank, elevation, ice content, and volume. The accounts are not reconciled.
 See [`../METHODOLOGY.md`](../METHODOLOGY.md).)*
 
+**Volume estimates remain unresolved (do not adopt any single figure).**  
+Park (EarthArXiv preprint, September 2026) reconstructs a moving volume of 27 (18–35) × 10⁶ m³ with ice fraction 0.1–0.3 and argues that a rock–ice avalanche alone (no stored water, no lake, no dam) can match the observed timing and gauge records. This is a non-peer-reviewed preprint only. It conflicts with the ~100 million m³ rock-fall-with-some-ice volume in Adhikari, Subedi et al. (*Seismica*, 2 Oct 2026) and with a technical note giving ~142 million m³. Neither Park’s volume nor its no-lake conclusion is adopted here.  
+*(Source: [Park, EarthArXiv, Sep 2026](https://doi.org/10.31223/X5250R). Status: preprint, unresolved.)*
+
 **Reference point — comparable prior event:** the same general corridor experienced a comparable-scale
 flood 14 months earlier: the July 2025 Rasuwagadhi glacial lake outburst flood, sourced from the
 Tibet side. This event's failure point is assessed as being on the Nepal side.
@@ -157,20 +161,9 @@ here.)
 
 ## 4. Hazard chain
 
-```text
-High-altitude rock/ice slope failure                                    [CONFIRMED]
-(near Langtang Lirung, ~5,200-5,400 m, 08:37 NPT, 26 Aug 2026)
-        ↓
-Debris (ice, rock, sediment) enters the drainage                        [CONFIRMED]
-        ↓
-Temporary landslide/ice dam forms and breaches                          [HYPOTHESIS — see §3]
-        ↓ (dashed path — unconfirmed link)
-Debris flood travels down Bhote Koshi into the Trishuli River system    [CONFIRMED]
-        ↓
-Corridor infrastructure impact within ~40 minutes: border crossing,     [CONFIRMED occurrence;
-roads, bridges, settlements, hydropower facilities                       modeled depth/extent is
-                                                                           illustrative — Module 2]
-```
+![Hazard chain](hazard_chain.jpg)
+
+*Solid navy arrow = supported sequence; dashed grey arrow = unconfirmed link; orange dashed box = hypothesised process. Modelled flood depths and extents are illustrative — see Module 2.*
 
 *(This ASCII sketch is the working structure for a rendered hazard-chain diagram. In the rendered
 version, the dam-formation/breach step should be visually distinguished — e.g. dashed border or a
