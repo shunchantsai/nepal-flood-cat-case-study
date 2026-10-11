@@ -5,3 +5,15 @@ __pycache__/
 *.png
 
 !01_event_reconstruction/maps/*.png
+data/*.pdf
+data/*.gpkg
+data/*.shp
+data/*.dbf
+data/*.shx
+data/*.prj
+data/*.cpg
+data/*.qmd
+data/*.geojson
+01_event_reconstruction/*.gpkg*
+01_event_reconstruction/*.qgz
+03_insurance_financial_layer/.ipynb_checkpoints/
