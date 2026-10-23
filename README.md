@@ -8,12 +8,15 @@ This project analyzes an active, ongoing disaster. As of ~5 September 2026 (see 
 
 **Research question:** What would an insurer, reinsurer, or public risk-finance institution need to understand about the catastrophe risk exposed by the August 2026 Nepal/Tibet border flood-debris cascade?
 
+
 ## Why this project is different
 
 Most portfolio projects in this space are hazard-only: rainfall → flood map → buildings → damage. This one leans on two things that are harder to fake:
 
 1. **A cascading hazard chain**, not a single-mechanism flood: a high-altitude rock/ice slope failure that produced a seismic signal initially indistinguishable from an earthquake, a debris flood, and a cross-border infrastructure corridor failure — all within roughly 40 minutes of the trigger reaching populated areas. A transient landslide dam remains a **HYPOTHESIS** (see `01_event_reconstruction/timeline_and_hazard_chain.md`).
 2. **Real insurance and reinsurance market data**, sourced from the Nepal Insurance Authority's 2026 hydropower insurance report — actual policy structures, actual reinsurance treaty/facultative splits, actual claims settlement timelines, and actual combined ratios. This is the centerpiece of the project (see `03_insurance_financial_layer/`).
+
+The original outline aimed for a conventional CAT workflow: event summary, corridor risk, exposure and loss, insurance structure, protection gap, scenarios, and takeaways. Once the available public sources were reviewed, a full asset inventory, event-specific depth layer, and scenario set were not feasible without additional data. The work therefore focuses on event reconstruction with uncertainty tags, corridor infrastructure concentration, dated insurance snapshots, the protection-gap question, the illustrative model versus national aggregate, risk-financing layers, and the recurrence framing question. A production workflow for a CAT firm and its clients would be strengthened by a georeferenced asset inventory with defensible values, observed or modelled flood depths, Nepal-relevant vulnerability functions, and company- or portfolio-level claims data. Those inputs would allow the same structure to move from an illustrative demonstration to quantified, client-specific loss estimates and scenario testing.
 
 ## Methodology
 
