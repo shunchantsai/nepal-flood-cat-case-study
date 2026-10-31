@@ -44,16 +44,22 @@ Insurance coverage along this corridor is not a binary "insured or not." It beha
 
 - China's national financial regulator activated a second-tier disaster-response protocol for the insurance sector on the Tibet side following the 26 August event; some insurers began processing motor claims quickly. Motor claims are easy to adjust; a hydropower plant is not.
 - On the Nepal side, by 26–27 August, NIA had received reports of damage to ~13 hydropower projects (~354 MW operating, ~394 MW under construction, ~748 MW combined). The compiled aggregate table in `../02_exposure_vulnerability/known_damage_totals.csv` lists 14 projects at the same 748 MW — treated here as the same corridor total with an unresolved one-project counting difference across sources, not as two different events. NEPSE's non-life insurance index fell 3.90% and the hydropower index fell 2.84% on the day — the market was already pricing in claims expectations before formal loss adjustment had occurred.
-- By end of August, the Nepal insurance industry had received **583 flood-related claims totalling approximately NPR 25.87 billion (~US$171 million)** — concentrated in commercial/hydropower assets.
+- **NIA claims snapshots (do not blend)**  
+  - **31 Aug 2026:** NPR 25.87 billion across 583 policies (preliminary).  
+    *(Source: Nepal Insurance Authority figures reported 31 Aug / early Sep 2026.)*  
+  - **29 Sep 2026:** NPR 20.98 billion across 2,180 policies. NIA waived claim-reporting deadlines and allowed advances of up to 50% of a preliminary survey under the Rasuwa Flood Claim Settlement Abbreviated Procedure, 2083.  
+    *(Source: Nepal Insurance Authority figures as of ~28–29 Sep 2026.)*  
+
+  These are successive snapshots, not a single evolving total. The later figure reflects additional verified claims and the removal of earlier exposure estimates; they are not interchangeable.
 - The 2025 Rasuwa flood is a useful benchmark: as of early August 2025, NIA had received 78 claims totalling ~NPR 985.9 million across property, marine, engineering/contractor, and motor lines — evidence this corridor already has an active, tested (if strained) claims infrastructure.
 
-> **⚠ Figures as of end of August 2026 — provisional.** These are *filed* insurance-industry flood claims versus a government national-loss estimate and a reconstruction-need range. Filed ≠ paid. Claims are concentrated in commercial/hydropower assets. This is a snapshot, not a precise insured-to-exposed ratio.
+> **⚠ The protection-gap table below uses only the 31 Aug 2026 NIA snapshot (provisional).** The 29 Sep snapshot is recorded separately and is not blended into the ratio. Filed claims are not paid claims, remain concentrated in commercial and hydropower assets, and do not represent a precise insured-to-exposed ratio.
 
 ## The protection gap (headline number for the report)
 
 | Figure | Amount |
 |---|---|
-| Insured claims filed (as of end-Aug 2026) | ~US$171 million |
+| Insured claims filed (31 Aug 2026 snapshot) | ~US$171 million |
 | Government-estimated total direct national loss | ~US$2.6 billion |
 | Estimated reconstruction need | ~US$4–5 billion |
 

@@ -31,16 +31,45 @@ free of TODO language.
       depth-damage slopes (one paragraph in `data_limitations.md` plus a
       comment in `vulnerability_functions.py`). Still label them not
       Nepal-calibrated.
-
-## Still to do (application packet)
-
-### 3. Communication (what a hiring reviewer will actually open)
-- [ ] 8–10 slide executive deck in `slides/`
+- [x] 8–10 slide executive deck in `slides/`
       Event → cascade (dam = hypothesis) → NIA market facts → 6–7% gap
       with filed≠paid caveat → $33M ≠ $2.6B → three risk-finance layers →
       two-events-in-14-months question.
-- [ ] 10–15 page technical report in `report/`
+- [x] 10–15 page technical report in `report/`
       Stitch existing modules. Do not add a new model.
+
+## Still to do
+
+### Workstream A — Finish the Nepal case study (do first)
+- [x] Correct README.md: national aggregate figures are contextual comparisons, not calibration targets.
+- [x] Replace `02_exposure_vulnerability/data_limitations.md` with the revised reader-facing version.
+- [x] Update `vulnerability_functions.py` docstring (and any inline comments) to state that the functions are JRC-informed simplified approximations, not Nepal-calibrated.
+- [ ] Improve primary-source links for the main figures (national loss estimate, NIA 31 Aug and 29 Sep snapshots, OCHA tolls, Copernicus EMSR927 grading).
+- [ ] Document why the two NIA snapshots are not blended (or reconcile them if a clear explanation exists).
+- [ ] Commit and link the final executive deck (`slides/`) and technical summary (`report/`) from the README.
+- [ ] Update the “last reviewed” date and remove outdated project-status language.
+- [ ] Run the existing analysis from a clean checkout and confirm the documented headline outputs reproduce.
+- [ ] Add basic input checks to the vulnerability calculation (negative depths, missing values, unrecognised asset types) so NaNs or negative losses are caught.
+
+### Workstream B — Two separate complementary exercises (after A)
+
+#### B1 — Exposure-data QA (new repo or folder)
+- [ ] Create a synthetic exposure file (100–500 records) with realistic fields (location, occupancy, construction, TIV, etc.).
+- [ ] Introduce deliberate data-quality problems (missing/invalid coordinates, duplicates, negative values, mixed currencies, inconsistent labels).
+- [ ] Write a Python validation script that profiles the data and flags issues.
+- [ ] Generate an exception report with clear reasons for each flagged record.
+- [ ] Produce a cleaned dataset while preserving the original source file.
+- [ ] Summarise portfolio TIV by location and occupancy.
+- [ ] Document the workflow and include sample outputs.
+
+#### B2 — Portfolio loss and reinsurance (new repo or folder)
+- [ ] Create a clearly labelled synthetic event-loss catalogue (multiple events, frequencies, event-level losses).
+- [ ] Calculate AAL from the annual loss distribution.
+- [ ] Construct OEP and AEP curves and extract selected return-period losses.
+- [ ] Apply policy deductibles and limits to calculate insured losses from ground-up.
+- [ ] Apply a simple quota-share and an excess-of-loss treaty.
+- [ ] Calculate and present gross, ceded and net results.
+- [ ] Write a short technical note explaining the assumptions and limitations.
 
 ## Out of scope
 Rainfall–runoff, DEM hydraulics, OSM building stock, company-level payouts,

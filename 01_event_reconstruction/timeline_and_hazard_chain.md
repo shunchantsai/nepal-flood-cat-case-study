@@ -22,9 +22,6 @@ including the epistemic/aleatory distinction used in §3 below.
 |27 Aug 2026 (grading product) | Syabrubesi (AOI01 Syapru Besi): >240 buildings destroyed, 32 damaged (from Copernicus EMSR927 Grading product v1). Additional context: 433 of 559 buildings affected in the AOI; ~111 ha mass movement delineated. | CONFIRMED (grading product counts)|[Copernicus EMS EMSR927 Grading products](https://mapping.emergency.copernicus.eu/activations/EMSR927/), 27 Aug 2026 (also available via HDX / IHP-WINS mirrors) |
 | T+40 min onward | Corridor infrastructure impact: border crossing, roads, bridges, settlements, hydropower facilities along the Bhote Koshi–Trishuli corridor | CONFIRMED (occurrence) / illustrative in this project for depth/extent (see [`../02_exposure_vulnerability/`](../02_exposure_vulnerability/)) | [2026 Nepal–Tibet floods — Wikipedia](https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods) (aggregator; see article references for primary sources) |
 | ~11:46 NPT | Second seismic signal, M4.2, also attributed to slope instability. USGS's event page for this signal (event ID us7000tc90) lists a precise origin time of 06:00:35 UTC, which converts to ~11:46 NPT (UTC+5:45) | CONFIRMED | [USGS event page, second signal (us7000tc90)](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc90/executive) |
-| 4 Sept 2026 | Two workers — Sanjay Sah/Shah (mechanical foreman) and Kabir Maharjan (mechanical supervisor) — rescued alive from the main tunnel at the Trishuli 3A hydropower construction site, nine days after the flood | CONFIRMED | [Al Jazeera, 4 Sept 2026](https://www.aljazeera.com/news/2026/9/4/nepal-search-teams-rescue-two-workers-from-hydropower-tunnel) |
-| 5 Sept 2026 | A Chinese national (Lu Haitao) rescued from a hydropower tunnel after being trapped for 10 days, reported by CNN as the Upper Trishuli-1 project. **Note:** one other outlet's photo caption attributes this rescue to Trishuli-3A instead. OCHA Sitrep No. 7 (covering 4–7 September) also places this rescue at the Upper Trishuli-1 tunnel. The 4 September Trishuli 3A worker rescue is a different row and is unchanged. | CONFIRMED (occurrence); site reported as Upper Trishuli-1 by CNN and OCHA, with one conflicting caption for Trishuli-3A | [CNN, 5 Sept 2026](https://www.cnn.com/2026/09/05/world/live-news/nepal-china-flood); [OCHA Sitrep No. 7](https://reliefweb.int/report/nepal/nepal-rasuwa-flood-situation-report-no-7-8-september-2026) |
-| 5 Sept 2026 | Chandika Kumari Shrestha (64), a resident of Betrawati (Bidur Municipality-10, Nuwakot district), rescued alive from the upper floor of her collapsed four-storey home, 10 days after the flood | CONFIRMED | [Kathmandu Post, 5 Sept 2026](https://kathmandupost.com/national/2026/09/05/woman-rescued-alive-after-10-days-trapped-in-debris-buried-house) |
 
 **Building damage note:** Building damage figures for Syabrubesi are taken from the Copernicus EMSR927 Grading product (27 Aug 2026). The activation description’s “reportedly a GLOF” language is not treated as the mechanism; the source is the high-altitude rock/ice slope failure documented above.
 
@@ -54,11 +51,6 @@ See [`../METHODOLOGY.md`](../METHODOLOGY.md).)*
 **Volume estimates remain unresolved (do not adopt any single figure).**  
 Park (EarthArXiv preprint, September 2026) reconstructs a moving volume of 27 (18–35) × 10⁶ m³ with ice fraction 0.1–0.3 and argues that a rock–ice avalanche alone (no stored water, no lake, no dam) can match the observed timing and gauge records. This is a non-peer-reviewed preprint only. It conflicts with the ~100 million m³ rock-fall-with-some-ice volume in Adhikari, Subedi et al. (*Seismica*, 2 Oct 2026) and with a technical note giving ~142 million m³. Neither Park’s volume nor its no-lake conclusion is adopted here.  
 *(Source: [Park, EarthArXiv, Sep 2026](https://doi.org/10.31223/X5250R). Status: preprint, unresolved.)*
-
-**Reference point — comparable prior event:** the same general corridor experienced a comparable-scale
-flood 14 months earlier: the July 2025 Rasuwagadhi glacial lake outburst flood, sourced from the
-Tibet side. This event's failure point is assessed as being on the Nepal side.
-*(CONFIRMED as a distinct prior event — [Reuters, 10 July 2025](https://www.reuters.com/sustainability/climate-energy/tibetan-glacial-lake-drainage-triggered-deadly-flood-nepal-climate-body-says-2025-07-10/); the significance of "two major events in 14 months" for return-period assumptions is a framing question raised in [`../04_scenarios/stress_test_table.py`](../04_scenarios/stress_test_table.py), not a statistical claim.)*
 
 ---
 
@@ -165,10 +157,6 @@ here.)
 
 *Solid navy arrow = supported sequence; dashed grey arrow = unconfirmed link; orange dashed box = hypothesised process. Modelled flood depths and extents are illustrative — see Module 2.*
 
-*(This ASCII sketch is the working structure for a rendered hazard-chain diagram. In the rendered
-version, the dam-formation/breach step should be visually distinguished — e.g. dashed border or a
-different fill — from the confirmed steps around it.)*
-
 ---
 
 ## 5. Why this corridor is structurally high-risk
@@ -188,11 +176,8 @@ where applicable, rather than stated as an unsupported assertion.
 - **Monitoring vulnerability:** four automatic hydrological monitoring stations were destroyed
   during the event, degrading real-time visibility exactly when it was most needed.
   *(CONFIRMED — [Wikipedia timeline of the 2026 Nepal floods](https://en.wikipedia.org/wiki/Timeline_of_the_2026_Nepal_floods).)*
-- **Repeat-event signal:** two major events in the same corridor within 14 months (July 2025
-  Rasuwagadhi GLOF; this event) raises the question of whether historical return-period
-  assumptions (e.g., "50-year flood") for this specific corridor are still appropriate. This is
-  developed as a framing question, not a statistical claim, in
-  [`../04_scenarios/stress_test_table.py`](../04_scenarios/stress_test_table.py).
+- **Repeat-event signal:** the same general corridor experienced a comparable-scale flood 14 months earlier (July 2025 Rasuwagadhi GLOF, Tibet-side source). This event’s failure point is assessed as being on the Nepal side. Two major events in 14 months raises the question of whether historical return-period assumptions for this corridor remain appropriate; this is treated as a framing question, not a statistical claim, in [`../04_scenarios/stress_test_table.py`](../04_scenarios/stress_test_table.py).  
+  *(CONFIRMED as a distinct prior event — [Reuters, 10 July 2025](https://www.reuters.com/sustainability/climate-energy/tibetan-glacial-lake-drainage-triggered-deadly-flood-nepal-climate-body-says-2025-07-10/).)*
 - **Climate preconditioning (World Weather Attribution, 17 Sep 2026):**  
 Glacier thinning (regional mass loss equivalent to >0.5 m/yr; accelerated recession of the Langtang-Lirung glacier since 2010), permafrost thaw in rock fractures, and the warmest July–August on local record (~1.5°C attributable warming in those months) are identified as factors that likely preconditioned the slope. The 2015 M7.8 earthquake is noted as a possible longer-term precondition that may have weakened the rock mass, but its specific contribution to the 2026 failure is unconfirmed.  
 *(Source: [World Weather Attribution, 17 Sep 2026](https://www.worldweatherattribution.org/rapid-warming-in-the-himalaya-exacerbates-geohazard-cascades-beyond-adaptation-limits/). Death-toll figure used in the report is as of 14 September 2026: over 1,300 confirmed deaths and over 5,000 missing. This is a preconditioning analysis, not a loss model or a conventional extreme-event attribution.)*

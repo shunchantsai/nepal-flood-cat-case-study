@@ -25,7 +25,7 @@ This project does not attempt to reproduce a commercial catastrophe model (RMS /
 ```text
 Event reconstruction (hazard chain)
         ↓
-Exposure & vulnerability (illustrative, calibrated to known totals)
+Exposure & vulnerability (illustrative inventory and JRC-informed placeholder functions; national aggregates used for contextual comparison, not calibration)
         ↓
 Ground-up loss
         ↓
@@ -37,6 +37,10 @@ Risk insights
 ```
 
 ## Repository structure
+
+## Application materials
+- [Executive deck](slides/executive_deck.pdf)
+- [Technical summary](report/Nepal_2026_Flood_Technical_Summary.docx)
 
 ```text
 nepal-flood-cat-case-study/
