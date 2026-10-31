@@ -1,8 +1,8 @@
 # Nepal 2026 Flood — Catastrophe Risk & Insurance Analytics Case Study
 
-This project analyzes an active, ongoing disaster. As of ~5 September 2026 (see [`01_event_reconstruction/timeline_and_hazard_chain.md`](01_event_reconstruction/timeline_and_hazard_chain.md) for the dated, sourced breakdown), over 1,300 people are confirmed dead and thousands remain missing across Nepal and the Tibet Autonomous Region, with tens of thousands displaced — figures still being reconciled across agencies. This analysis is offered in the belief that honest catastrophe risk analytics — done carefully — is part of how disasters like this one get better understood, financed, and reduced in the future. It is not a purely technical exercise performed on top of a tragedy.
+The 26 August 2026 event caused significant loss of life and damage in the Bhote Koshi–Trishuli corridor. Dated casualty and damage figures are recorded in the timeline module; they remain subject to revision by the reporting agencies.
 
-*Last reviewed: 20 September 2026.*
+*Last reviewed: 31 October 2026.*
 
 ## Objective
 
