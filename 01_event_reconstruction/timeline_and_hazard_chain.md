@@ -25,6 +25,8 @@ including the epistemic/aleatory distinction used in §3 below.
 
 **Building damage note:** Building damage figures for Syabrubesi are taken from the Copernicus EMSR927 Grading product (27 Aug 2026). The activation description’s “reportedly a GLOF” language is not treated as the mechanism; the source is the high-altitude rock/ice slope failure documented above.
 
+Independent satellite-derived extent and building-exposure figures from UNOSAT (FL20260826NPL) are recorded in [`../02_exposure_vulnerability/data_limitations.md`](../02_exposure_vulnerability/data_limitations.md).
+
 **Source peak — two names, not one location.** Langtang Lirung and Tsangbu Ri are
 different peaks. They stand about 4 km apart in the Langtang Himal. Langtang Lirung is
 the higher one, at 7,234 m (28.258°N, 85.516°E). Tsangbu Ri, also called Kimshung, is
@@ -143,11 +145,12 @@ the question on this project's terms.
 
 Until one of these lines of evidence is conclusive, this project treats the dam-breach hypothesis
 as a candidate amplifying mechanism, not a fact — and any statement in the report or slides that
-relies on it should be explicitly flagged as such. (Note: separately, two *barrier lakes* did form
-downstream after the initial collapse and are documented by Chinese authorities — see
-[Wikipedia, 2026 Nepal–Tibet floods](https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods). These are a distinct, confirmed post-event
-hazard and should not be conflated with the unresolved upstream dam-formation question addressed
-here.)
+relies on it should be explicitly flagged as such.
+
+**Post-event barrier lakes (distinct from the upstream-dam hypothesis).**  
+Two newly formed barrier lakes were mapped by independent satellite analysis after the initial collapse. UNOSAT’s product *Satellite-Detected Newly Formed Barrier Lakes Following an Ice-Rock Avalanche in Rasuwa District, Nepal, as of 28 August 2026* (Cartosat-3 imagery) identifies these water bodies. Complementary analysis by India’s National Remote Sensing Centre (NRSC) using the same Cartosat-3 pass (28 August) and pre-event PlanetScope imagery (25 August) reports two impoundments of approximately 19 ha and 11 ha. Chinese authorities and NDRRMA also recorded the formation and subsequent monitoring of barrier lakes in the same corridor.  
+
+These post-event lakes are a **confirmed** secondary hazard (satellite-detected, multi-source). They are **not** evidence that a temporary landslide/ice dam formed and breached *during* the 26 August cascade itself. The upstream dam-formation-and-breach mechanism that may have amplified the main flood wave therefore remains **HYPOTHESIS**. The UNOSAT and NRSC products simply remove any remaining ambiguity about whether barrier lakes existed after the event; they do not resolve the timing or hydraulic role of any temporary dam inside the primary cascade. Until a formal investigation report or pre-/post-event channel analysis demonstrates a breached reach that existed only during the event, statements that rely on an amplifying dam breach must continue to carry the HYPOTHESIS flag.
 
 ---
 

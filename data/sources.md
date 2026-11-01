@@ -11,6 +11,9 @@
 - Gouli et al. (2025) — extreme-scenario peak discharge modelling for this basin
 - Kirschbaum et al. (2019), *Frontiers in Earth Science* — cascading mountain hazard chain framework (Fig. 2D)
 - UNOSAT (2026). FL20260826NPL geodatabase — Mudflow/rockflow impact assessment, Rasuwa & Nuwakot districts, Nepal, 26–27 August 2026. United Nations Satellite Centre (UNOSAT), Humanitarian Data Exchange (HDX). https://data.humdata.org/dataset/unosat-live-web-map (geodatabase: FL20260826NPL.gdb.zip). Preliminary satellite assessment; not field-validated.
+- UNOSAT (2026). *Satellite-Detected Newly Formed Barrier Lakes Following an Ice-Rock Avalanche in Rasuwa District, Nepal, as of 28 August 2026* (Cartosat-3). United Nations Satellite Centre (UNOSAT), event FL20260826NPL. Preliminary satellite assessment; not field-validated. Available via the UNOSAT live web map: https://experience.arcgis.com/experience/506e35256a654e0c97600f6adbaacbe3/page/UNOSAT
+- National Remote Sensing Centre (NRSC / ISRO) (2026). Analysis of Cartosat-3 imagery (28 August 2026) and PlanetScope pre-event imagery (25 August 2026) identifying two newly formed water bodies (~19 ha and ~11 ha) in the avalanche-affected zone, Rasuwa District. Secondary reporting of the NRSC findings: Times of India / Hyderabad Mail, 29 August 2026.
+
 
 ## Insurance / financial
 - Nepal Insurance Authority (NIA), May 2026 — "Hydropower Insurance in Nepal: Assessment of Trends, Challenges, and Opportunities for Reform" (5-year market dataset; 121 paid claims)
@@ -29,5 +32,5 @@
 - National loss estimate (~US$2.6 billion): compiled from government estimate, September 2026. Original Threads posts archived in `data/Nepal_Threads_posts.pdf`. Used as contextual comparison only; not a calibration target.
 - NIA claims snapshot, 31 August 2026: NPR 25.87 billion filed, 583 policies. Compiled in Threads posts; archived in `data/Nepal_Threads_posts.pdf`.
 - NIA claims snapshot, 29 September 2026: NPR 20.98 billion filed, 2,180 policies; deadlines waived; advances available. Distinct reporting point; not blended with the 31 August snapshot. (Add primary NIA source or citation if available.)
-- OCHA Rasuwa Flood Situation Report No. 6, as of 3 September 2026: casualty and RAPIDA figures. [ReliefWeb or OCHA URL if you have it].
-- Copernicus EMSR927 grading product, 27 August 2026: Syabrubesi >240 buildings destroyed, 32 damaged. [Copernicus EMS activation or product link].
+- OCHA Rasuwa Flood Situation Report No. 6, as of 3 September 2026: casualty and RAPIDA figures. [(https://www.unocha.org/publications/report/nepal/nepal-rasuwa-flood-situation-report-no-6-3-september-2026)].
+- Copernicus EMSR927 grading product, 27 August 2026: Syabrubesi >240 buildings destroyed, 32 damaged. [https://mapping.emergency.copernicus.eu/activations/EMSR927/].
