@@ -33,4 +33,4 @@
 - NIA claims snapshot, 31 August 2026: NPR 25.87 billion filed, 583 policies. Compiled in Threads posts; archived in `data/Nepal_Threads_posts.pdf`.
 - NIA claims snapshot, 29 September 2026: NPR 20.98 billion filed, 2,180 policies; deadlines waived; advances available. Distinct reporting point; not blended with the 31 August snapshot. (Add primary NIA source or citation if available.)
 - OCHA Rasuwa Flood Situation Report No. 6, as of 3 September 2026: casualty and RAPIDA figures. [(https://www.unocha.org/publications/report/nepal/nepal-rasuwa-flood-situation-report-no-6-3-september-2026)].
-- Copernicus EMSR927 grading product, 27 August 2026: Syabrubesi >240 buildings destroyed, 32 damaged. [https://mapping.emergency.copernicus.eu/activations/EMSR927/].
+- Copernicus Emergency Management Service (2026). EMSR927 — Flood in Nepal (Rapid Mapping). Activation requested 26 August 2026; grading products v1 released 27 August 2026 for AOI01 Syapru Besi and AOI02 Timure. https://mapping.emergency.copernicus.eu/activations/EMSR927/ (reporting: https://mapping.emergency.copernicus.eu/activations/EMSR927/reporting/)

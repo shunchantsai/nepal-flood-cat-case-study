@@ -39,17 +39,13 @@ def damage_ratio(asset_type: str, depth_m: float) -> float:
 
 
 def main():
-    # Minimal synthetic exposure (replace with a read of your real CSV if preferred)
-    exposure = pd.DataFrame({
-        "asset_id": ["A0001", "A0002", "A0005", "A0008"],
-        "asset_type": ["residential", "commercial", "hydropower", "bridge"],
-        "replacement_value_usd": [250_000, 1_200_000, 50_000_000, 8_000_000],
-        "assigned_depth_m": [1.2, 0.8, 2.5, 1.5],
-    })
+       # Read the same illustrative exposure table used by vulnerability_functions.py
+    csv_path = Path(__file__).resolve().parent.parent / "02_exposure_vulnerability" / "exposure_table.csv"
+    exposure = pd.read_csv(csv_path)
 
     # Ground-up loss
     exposure["damage_ratio"] = exposure.apply(
-        lambda r: damage_ratio(r["asset_type"], r["assigned_depth_m"]), axis=1
+        lambda r: damage_ratio(r["asset_type"], r["hazard_depth_m"]), axis=1
     )
     exposure["ground_up_loss_usd"] = (
         exposure["replacement_value_usd"] * exposure["damage_ratio"]
